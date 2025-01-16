@@ -51,4 +51,11 @@
 	--button-background: #2980F2; /* Bright gold to reflect fun and visibility */
 	--button-border: 1px solid #000000;
   }
+
+  /* SilkSwap Button */
+.button-silkswap {
+  --button-text: #ffffff; /* White text */
+  --button-background: #6a0dad; /* SilkSwap purple background */
+  --button-border: 1px solid #ffffff; /* Optional white border */
+}
   
