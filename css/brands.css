@@ -37,6 +37,13 @@
 	--button-text: #ffffff;
 	--button-background: #3faee8;
   }
+
+  /* TikTok Button */
+.button-tiktok {
+  --button-text: #ffffff; /* White text */
+  --button-background: #000000; /* Black background */
+  --button-border: 1px solid #ffffff; /* Optional white border */
+}
   
   /* MemejobFun */
   .button-memejobfun {
